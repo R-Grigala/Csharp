@@ -1,0 +1,7 @@
+C:\Users\TRINITY\source\repos\R-Grigala\Csharp\Temperature\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\TRINITY\source\repos\R-Grigala\Csharp\Temperature\Temperature\bin\Debug\Temperature.exe
+C:\Users\TRINITY\source\repos\R-Grigala\Csharp\Temperature\Temperature\bin\Debug\Temperature.pdb
+C:\Users\TRINITY\source\repos\R-Grigala\Csharp\Temperature\Temperature\obj\Debug\Temperature.csproj.AssemblyReference.cache
+C:\Users\TRINITY\source\repos\R-Grigala\Csharp\Temperature\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\TRINITY\source\repos\R-Grigala\Csharp\Temperature\Temperature\obj\Debug\Temperature.exe
+C:\Users\TRINITY\source\repos\R-Grigala\Csharp\Temperature\Temperature\obj\Debug\Temperature.pdb
